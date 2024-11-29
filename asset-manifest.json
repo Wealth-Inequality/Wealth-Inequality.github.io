@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Wealth-Inequality.github.io/static/css/main.bf790d4c.css",
-    "main.js": "/Wealth-Inequality.github.io/static/js/main.a0f568f4.js",
-    "static/js/453.29ef25de.chunk.js": "/Wealth-Inequality.github.io/static/js/453.29ef25de.chunk.js",
-    "index.html": "/Wealth-Inequality.github.io/index.html",
-    "main.bf790d4c.css.map": "/Wealth-Inequality.github.io/static/css/main.bf790d4c.css.map",
-    "main.a0f568f4.js.map": "/Wealth-Inequality.github.io/static/js/main.a0f568f4.js.map",
-    "453.29ef25de.chunk.js.map": "/Wealth-Inequality.github.io/static/js/453.29ef25de.chunk.js.map"
+    "main.css": "/static/css/main.bf790d4c.css",
+    "main.js": "/static/js/main.3fe48c62.js",
+    "static/js/453.29ef25de.chunk.js": "/static/js/453.29ef25de.chunk.js",
+    "index.html": "/index.html",
+    "main.bf790d4c.css.map": "/static/css/main.bf790d4c.css.map",
+    "main.3fe48c62.js.map": "/static/js/main.3fe48c62.js.map",
+    "453.29ef25de.chunk.js.map": "/static/js/453.29ef25de.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bf790d4c.css",
-    "static/js/main.a0f568f4.js"
+    "static/js/main.3fe48c62.js"
   ]
 }
