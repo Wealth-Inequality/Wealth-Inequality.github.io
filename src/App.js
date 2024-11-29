@@ -377,6 +377,9 @@ const AdvancedWealthDistributionVisualizer = () => {
             The charts and data reveal the extreme concentration of wealth 
             in the hands of a small percentage of the population.
           </p>
+          <p>
+            
+          </p>
           <h2 className="text-">
             Why is so little owned by so many
           </h2>
